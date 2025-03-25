@@ -1,0 +1,21 @@
+2025-03-25 22:09:10,208 - INFO - Method: GET - Url: /docs - Status: 200 - Execution time: 0.000000s
+2025-03-25 22:09:10,367 - INFO - Method: GET - Url: /openapi.json - Status: 200 - Execution time: 0.011002s
+2025-03-25 22:09:18,091 - INFO - Method: POST - Url: /accounts/ - Status: 422 - Execution time: 0.007475s
+2025-03-25 22:10:35,947 - INFO - Method: POST - Url: /accounts/ - Status: 422 - Execution time: 0.003001s
+2025-03-25 22:14:11,447 - INFO - Method: GET - Url: /docs - Status: 200 - Execution time: 0.000999s
+2025-03-25 22:14:11,590 - INFO - Method: GET - Url: /openapi.json - Status: 200 - Execution time: 0.006014s
+2025-03-25 22:14:14,368 - INFO - Method: POST - Url: /accounts/ - Status: 400 - Execution time: 0.003999s
+2025-03-25 22:15:44,921 - INFO - Method: POST - Url: /accounts/ - Status: 400 - Execution time: 0.003999s
+2025-03-25 23:10:39,932 - INFO - Method: GET - Url: /docs - Status: 200 - Execution time: 0.000996s
+2025-03-25 23:10:40,119 - INFO - Method: GET - Url: /openapi.json - Status: 200 - Execution time: 0.008599s
+2025-03-25 23:10:59,618 - INFO - Account created: Dan
+2025-03-25 23:10:59,620 - INFO - Method: POST - Url: /accounts/ - Status: 200 - Execution time: 0.018058s
+2025-03-25 23:11:13,634 - INFO - Method: GET - Url: /accounts/ - Status: 200 - Execution time: 0.002997s
+2025-03-25 23:12:00,685 - INFO - Method: GET - Url: /accounts/0 - Status: 404 - Execution time: 0.006001s
+2025-03-25 23:15:40,916 - INFO - Method: GET - Url: /docs - Status: 200 - Execution time: 0.001998s
+2025-03-25 23:15:41,062 - INFO - Method: GET - Url: /openapi.json - Status: 200 - Execution time: 0.005126s
+2025-03-25 23:15:45,749 - INFO - Method: GET - Url: /accounts/ - Status: 200 - Execution time: 0.004505s
+2025-03-25 23:16:18,787 - INFO - Method: GET - Url: /accounts/ - Status: 200 - Execution time: 0.003999s
+2025-03-25 23:17:42,628 - INFO - Method: GET - Url: /accounts/1 - Status: 200 - Execution time: 0.007514s
+2025-03-25 23:18:23,462 - INFO - Account updated: 1
+2025-03-25 23:18:23,465 - INFO - Method: PUT - Url: /accounts/1 - Status: 200 - Execution time: 0.028054s
